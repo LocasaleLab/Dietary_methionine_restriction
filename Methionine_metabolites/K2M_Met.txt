@@ -1,0 +1,340 @@
+4-Hydroxyphenylacetate/2-Hydroxyphenylacetate/3,4-Dihydroxyphenylacetaldehyde
+3-dehydro-L-gulonate/D-glucuronate/L-iduronate
+UDP-D-glucose/UDP-D-galactose
+Malonate/3-hydroxypyruvate
+3-methyl-2-oxopentanoate/4-methyl-2-oxopentanoate(ketoleucine)
+citrate/isocitrate
+ADP-mannose/GDP-L-fucose/ADP alpha-D-glucoside
+D-Glycerate 3-phosphate/D-Glycerate 2-phosphate
+2-deoxy-D-ribose 5-phosphate/2-Deoxy-D-ribose 1-phosphate
+oleic acid/elaidate/trans-vaccenate
+3-Keto-beta-D-galactose/L-Gulonolactone
+1,3-diphosphoglycerate /2,3-diphosphoglycerate /(1,3BPG or2,3BPG)
+trans-caffeate/3-(4-hydroxyphenyl)pyruvate
+UMP
+L-fucose/L-Fuculose
+itaconate/Mesaconate
+Ureidopropionic acid/Glycyl-glycine
+5,6-dihydrouracil/L-3-Cyanoalanine
+phenylacetate/(4-hydroxyphenyl)acetaldehyde
+5-Methylthio-5-deoxy-D-ribulose 1-phosphate/5-Methylthio-5-deoxy-D-ribose 1-phosphate
+5-oxoproline/L-1-Pyrroline-3-hydroxy-5-carboxylate
+G6P/F6P
+L-xylonate/L-lyxonate
+Taurodeoxycholic acid/taurochenodeoxycholate
+acetylcholine/4-(trimethylammonio)butanoate
+4-hydroxybenzoate/Gentisate aldehyde
+Adrenaline/L-Normetanephrine
+indole-3-acetate/(5-hydroxyindol-3-yl)acetaldehyde
+L-kynurenine/Formyl-5-hydroxykynurenamine
+phytanic acid/arachidic acid
+limonene/(+)-alpha-pinene
+pseudoecgonine/ecgonine
+9(10)-EpOME/12(13)-EpOME
+9,10-hydroxyoctadec-12(Z)-enoate/12,13-hydroxyoctadec-9(Z)-enoate
+ATP
+NAD+
+NADH
+NADPH
+NADP+
+ADP
+Coenzyme A
+Diphosphate
+UDP
+Flavin adenine dinucleotide oxidized
+S-adenosyl-L-methionine
+AMP
+S-Adenosyl-L-homocysteine
+S-Adenosyl-L-homocysteine
+pyruvate
+acetyl-CoA
+L-glutamate
+2-oxoglutarate(2-)
+GDP
+glycine
+L-alanine
+succinate(2-)
+UDP-N-acetyl-alpha-D-glucosamine/UDP-N-acetyl-alpha-D-galactosamine
+GTP
+lysine
+aspartate
+glutathione
+CMP 
+arginine
+CTP
+L-glutamine
+L-serine
+L-methionine
+Phosphoenolpyruvate
+UTP
+Ornithine
+L-tryptophan
+L-phenylalanine
+L-tyrosine
+malonyl-CoA
+Succinyl-CoA 
+Glycerol 3-phosphate
+GDP-D-mannose
+L-cysteine
+Propanoyl-CoA 
+uracil
+anthranilate
+2-Ketobutyric acid
+Dihydroxyacetone phosphate
+CDP
+choline
+Glycerol
+ribose-phosphate
+5-O-phosphonato-alpha-D-ribofuranosyl diphosphate
+Biotin
+fumarate
+GSSG
+CMP-N-acetyl-beta-neuraminate
+IMP
+IMP 
+dATP
+L-histidine
+myo-inositol
+3-methyl-2-oxobutanoate
+GMP 
+adenine
+L-proline
+malate(2-)
+L-asparagine
+Nicotinamide
+L-homocysteine
+Propionic acid
+acetoacetate
+UDP-D-glucuronate
+Carbamoyl phosphate
+5-Methylthioadenosine
+thymine/imidazol-4-ylacetate
+benzoate
+Valine
+lactate
+L-threonine
+UDP-alpha-D-xylose
+oxalate
+adenosine 
+sarcosine
+Thymidine 
+arachidonic acid
+3-oxopropanoate
+Guanine
+Taurine
+palmitate
+Pyridoxal
+Riboflavin
+D-glycerate
+Hypoxanthine 
+alpha-D-glucose
+D-Erythrose 4-phosphate
+inosine
+inosine
+orotate 
+uridine 
+creatine
+ADP-ribose
+CDPcholine
+Pyridoxine/Norepinephrine-1
+sphingosine/(2S)-1-hydroxy-3-oxooctadecan-2-aminium
+thiosulfate
+2-oxoadipate
+D-Glucosamine
+(S)-dihydroorotate
+6-Phosphogluconic acid
+D-Glucosamine 6-phosphate
+Hydroxymethylglutaryl-CoA 
+dTMP
+dUMP
+thiamine
+cytosine
+Xanthine
+carnosine
+guanosine 
+histamine
+L-isoleucine/L-leucine
+(R)-mevalonate
+cis-aconitate
+N(2)-acetyl-L-ornithine
+N-Carbamoyl-L-aspartate
+N-Formimidoyl-L-glutamate
+sedoheptulose 1,7-bisphosphate
+dCTP
+dTTP
+cytidine 
+bilirubin
+allantoate
+Folate
+L-cysteate
+Hypotaurine
+Deoxyuridine 
+CDP-ethanolamine
+choline phosphate
+phenylacetaldehyde
+N-acetyl-L-glutamate
+isobutyryl-CoA
+3-hydroxyanthranilate
+sn-Glycero-3-phosphocholine
+glycine betaine
+serotonin
+Urocanate
+creatinine
+gulonate
+naphthalene
+4-pyridoxate
+(R)-Pantothenate
+crotonoyl-CoA 
+2-deoxycytidine
+5,6-dihydrothymine
+L-2-aminoadipate
+D-Alanyl-D-alanine
+O-Phospho-L-serine
+NN-dimethylglycine
+N-acetyl-L-aspartate/2-Amino-3-oxoadipate
+Trimethylamine N-oxide
+4-trimethylammoniobutanal
+2-keto-4-methylthiobutyrate
+N-Methylethanolamine phosphate
+2-acetamido-5-oxopentanoate
+3-Hydroxy-N6N6N6-trimethyl-L-lysine
+dUDP
+L-cysteinylglycine
+stearate
+caprate
+linoleic acid/linoelaidic acid (all trans C18:2)/octadecadienoate (n-C18:2)
+nonanoate
+L-threonate
+kynurenate
+xanthosine
+2-deoxy-D-ribose
+L-erythrulose
+Glycylleucine
+2-aminoacrylic acid
+2-aminomuconate
+Cystathionine
+L-cystathionine
+N-phosphocreatinate
+Xanthurenic acid
+estrone 3-sulfate
+O-acetylcarnitine
+perillyl aldehyde
+taurolithocholate
+2-Hydroxyglutarate
+Dodecanedioic acid
+laurate
+N-Acetylmethionine
+octanoyl carnitine/L-Octanoylcarnitine
+butyryl carnitine
+1-methylnicotinamide
+Isovaleryl-CoA 
+L-Fucose 1-phosphate
+L-palmitoylcarnitine
+propionyl-carnitine
+5-Phospho-beta-D-ribosylamine
+N-Ribosylnicotinamide
+8,11,14-Eicosatrienoic acid (DGLA)
+(R)-2-hydroxy-4-methylpentanoate
+4-Nitrophenyl sulfate
+5-amino-1-(5-phospho-D-ribosyl)imidazole
+N(omega)-(L-Arginino)succinate
+NeuNGc
+N1,N12-diacetylspermidine
+(R)-S-lactoylglutathionate
+(S)-3-hydroxybutanoyl-CoA
+4-Imidazolone-5-propanoate
+quinolinate
+gama-L-glutamyl-L-alanine/5-L-Glutamyl-L-alanine-1
+5-guanidino-2-oxopentanoic acid
+N6N6N6-Trimethyl-L-lysine
+N1-(5-Phospho-D-ribosyl)glycinamide
+lithocholate
+(Z)-but-2-ene-123-tricarboxylate
+N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide
+S-(2-Methylpropanoyl)-dihydrolipoamide
+Methylisocitric acid/2-methylcitrate
+5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide 
+3alpha-7alpha-12alpha-Trihydroxy-5beta-cholestanoate/3alpha-7alpha-12alpha-25-tetrahydroxy-5beta-cholestane-24-one
+(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
+3-Ureidoisobutyrate/Glycylsarcosine
+2-phenylethanamine
+beta-D-Fructose 1,6-bisphosphate
+oxalatosuccinate
+Sedoheptulose 7-phosphate
+D-Glucuronate 1-phosphate
+Galactosylglycerol
+glycochenodeoxycholate
+Deoxyinosine 
+(4-hydroxy-3-methoxyphenyl)acetaldehyde
+5-Hydroxyindoleacetate
+4,6-Dihydroxyquinoline/quinoline-4,8-diol
+4-(2-amino-3-hydroxyphenyl)-4-oxobutanoic acid O-glucoside
+N-formylanthranilate/noradrenochrome
+5-Methoxyindoleacetate
+CMP-2-aminoethylphosphonate
+CMP-N-trimethyl-2-aminoethylphosphonate
+Methylimidazoleacetic acid
+coumarin
+L-4-hydroxyglutamate semialdehyde
+2-Hydroxybutyric acid
+Acetyl adenylate
+adipic acid
+1-methylpyrrolinium
+dIMP
+N-Acetylneuraminate 9-phosphate
+myristate
+docosahexaenoate(DHA)
+Azelaic acid
+palmitoleate
+(-)-Salsolinol/NN-dimethyldopaminequinone-1
+sulfoglycolithocholate
+5-Hydroxyisourate
+Perillic acid
+Phosphodimethylethanolamine
+(R)-carnitine
+glycolithocholate
+clupanodonic acid/docosa-4,7,10,13,16-pentaenoic acid
+Eicosenoic acid
+pentadecanoate
+erythro-5-hydroxy-L-lysinium
+cholesterol sulfate
+acetamidopropanal
+Hexadecanedioic acid
+N-acetylneuraminic acid
+beta-carboline
+UDP-D-glucose/UDP-D-galactose
+Malonate/3-hydroxypyruvate
+3-dehydro-L-gulonate/D-glucuronate/L-iduronate
+3-methyl-2-oxopentanoate/4-methyl-2-oxopentanoate(ketoleucine)
+citrate/isocitrate
+ADP-mannose/GDP-L-fucose/ADP alpha-D-glucoside
+D-Glycerate 3-phosphate/D-Glycerate 2-phosphate
+2-deoxy-D-ribose 5-phosphate/2-Deoxy-D-ribose 1-phosphate
+oleic acid/elaidate/trans-vaccenate
+3-Keto-beta-D-galactose/L-Gulonolactone
+1,3-diphosphoglycerate /2,3-diphosphoglycerate /(1,3BPG or2,3BPG)
+trans-caffeate/3-(4-hydroxyphenyl)pyruvate
+UMP
+L-fucose/L-Fuculose
+itaconate/Mesaconate
+Ureidopropionic acid/Glycyl-glycine
+5,6-dihydrouracil/L-3-Cyanoalanine
+phenylacetate/(4-hydroxyphenyl)acetaldehyde
+5-Methylthio-5-deoxy-D-ribulose 1-phosphate/5-Methylthio-5-deoxy-D-ribose 1-phosphate
+5-oxoproline/L-1-Pyrroline-3-hydroxy-5-carboxylate
+G6P/F6P
+L-xylonate/L-lyxonate
+Taurodeoxycholic acid/taurochenodeoxycholate
+acetylcholine/4-(trimethylammonio)butanoate
+4-hydroxybenzoate/Gentisate aldehyde
+Adrenaline/L-Normetanephrine
+indole-3-acetate/(5-hydroxyindol-3-yl)acetaldehyde
+L-kynurenine/Formyl-5-hydroxykynurenamine
+4-Hydroxyphenylacetate/2-Hydroxyphenylacetate/3,4-Dihydroxyphenylacetaldehyde
+phytanic acid/arachidic acid
+limonene/(+)-alpha-pinene
+pseudoecgonine/ecgonine
+9(10)-EpOME/12(13)-EpOME
+9,10-hydroxyoctadec-12(Z)-enoate/12,13-hydroxyoctadec-9(Z)-enoate
+4-Hydroxyphenylacetate/2-Hydroxyphenylacetate/3,4-Dihydroxyphenylacetaldehyde
+3-dehydro-L-gulonate/D-glucuronate/L-iduronate

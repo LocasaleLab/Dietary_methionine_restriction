@@ -1,0 +1,34 @@
+(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
+1-methylnicotinamide
+2-Hydroxybutyric acid
+2-Ketobutyric acid
+3-Ureidoisobutyrate/Glycylsarcosine
+4-Hydroxyphenylacetate/2-Hydroxyphenylacetate/3,4-Dihydroxyphenylacetaldehyde
+5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide 
+Adrenaline/L-Normetanephrine
+Cystathionine
+D-Glucosamine 6-phosphate
+GMP 
+Guanine
+L-cystathionine
+L-methionine
+L-homocysteine
+N-Formimidoyl-L-glutamate
+N-Ribosylnicotinamide
+N1-(5-Phospho-D-ribosyl)glycinamide
+N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide
+NN-dimethylglycine
+Nicotinamide
+S-Adenosyl-L-homocysteine
+S-adenosyl-L-methionine
+Ureidopropionic acid/Glycyl-glycine
+acetyl-CoA
+adenine
+adenosine 
+creatine
+dTMP
+glycine betaine
+histamine
+inosine
+sarcosine
+serotonin

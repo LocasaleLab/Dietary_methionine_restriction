@@ -1,0 +1,234 @@
+Metabolite	PDX119-Tumor	PDX240-Tumor	PDX240-Plasma	PDX119-Liver	PDX119-Plasma	PDX240-Liver
+GSSG	1.15E+00	9.38E-01	2.75E-01	7.90E-01	8.37E-01	5.50E-01
+L-erythrulose	8.66E-01	5.91E-01	7.73E-01	8.96E-01	9.31E-01	7.79E-01
+"9,10-hydroxyoctadec-12(Z)-enoate/12,13-hydroxyoctadec-9(Z)-enoate"	9.56E-01	9.81E-01	8.80E-01	1.47E+00	1.35E+00	1.30E+00
+L-homocysteine	3.17E-01	2.76E-01	3.96E-01	5.08E-01	5.19E-01	3.22E-01
+(R)-carnitine	1.17E+00	9.46E-01	1.11E+00	1.54E+00	1.30E+00	1.14E+00
+3-methyl-2-oxopentanoate/4-methyl-2-oxopentanoate(ketoleucine)	7.85E-01	6.52E-01	8.79E-01	8.36E-01	1.01E+00	1.11E+00
+C14H24O3(4)	1.38E+00	1.16E+00	1.37E+00	2.55E+00	1.45E+00	2.31E+00
+L-methionine	7.39E-01	3.75E-01	5.96E-01	7.10E-01	8.31E-01	6.21E-01
+glycine betaine	1.46E+00	8.79E-01	9.25E-01	1.59E+00	1.44E+00	1.14E+00
+kynurenate	1.26E+00	1.08E+00	1.20E+00	6.36E-01	9.04E-01	7.91E-01
+C20H28O(5)	8.30E-01	1.28E+00	1.74E+00	9.21E-01	1.08E+00	1.23E+00
+"7,9-dihydro-1H-purine-2688(3H)-trione"	1.18E+00	1.17E+00	6.54E-01	6.69E-01	9.20E-01	4.02E-01
+aspartate	1.44E+00	9.79E-01	6.40E-01	1.21E+00	8.08E-01	1.48E+00
+ Hypoxanthine 	1.34E+00	1.01E+00	8.44E-01	1.20E+00	7.56E-01	1.50E+00
+nonanoate	1.06E+00	8.74E-01	8.35E-01	1.13E+00	9.35E-01	1.08E+00
+sphingosine/(2S)-1-hydroxy-3-oxooctadecan-2-aminium	1.11E+00	8.93E-01	9.83E-01	7.26E-01	1.04E+00	1.06E+00
+N-acetylneuraminic acid	1.30E+00	7.72E-01	1.77E+00	8.33E-01	2.12E+00	8.32E-01
+beta-carboline	3.81E-01	1.03E+00	6.43E-01	1.54E+00	2.36E-01	2.23E+00
+3-dehydro-L-gulonate/D-glucuronate/L-iduronate	1.80E+00	9.47E-01	1.66E+00	1.26E+00	1.81E+00	1.32E+00
+beta-hydroxy-beta-methylbutyrate	1.02E+00	1.03E+00	1.19E+00	1.09E+00	1.18E+00	1.09E+00
+2-methylglutaconic acid	8.57E-01	8.41E-01	8.05E-01	8.91E-01	9.75E-01	7.70E-01
+Ureidopropionic acid/Glycyl-glycine	1.05E+00	7.62E-01	1.30E+00	1.09E+00	1.04E+00	1.15E+00
+benzoate	1.01E+00	4.96E-01	5.61E-01	7.48E-01	9.61E-01	6.11E-01
+4-pyridoxate	8.41E-01	1.19E+00	6.27E-01	6.13E-01	5.98E-01	2.82E-01
+Azelaic acid	1.35E+00	1.11E+00	9.24E-01	1.69E+00	1.05E+00	1.37E+00
+Malonate/3-hydroxypyruvate	1.09E+00	9.59E-01	9.43E-01	1.15E+00	1.11E+00	1.08E+00
+stearate	1.16E+00	9.38E-01	9.06E-01	1.45E+00	9.40E-01	1.35E+00
+15(S)-Hydroxyeicosatrienoic acid	1.10E+00	8.22E-01	2.06E+00	1.28E+00	1.38E+00	2.15E+00
+limonene/(+)-alpha-pinene	8.48E-01	1.13E+00	1.35E+00	1.34E+00	1.04E+00	9.54E-01
+L-asparagine	1.05E+00	7.64E-01	1.29E+00	1.09E+00	1.04E+00	1.15E+00
+decenoyl carnitine	1.85E+00	7.19E-01	1.28E+00	3.33E+00	1.68E+00	1.63E+00
+C5H10O5(6)	1.22E+00	1.12E+00	8.27E-01	9.03E-01	1.04E+00	7.69E-01
+C9H13N5O3(4)	1.13E+00	8.41E-01	8.38E-01	7.01E-01	8.92E-01	4.20E-01
+2-deoxycytidine	8.87E-01	2.39E-01	1.09E+00	8.31E-01	8.91E-01	8.18E-01
+8(R)-hydroxy-hexadeca-2E4E6E10Z-tetraenoate/8(S)-hydroxy-hexadeca-2E4E6E10Z-tetraenoate	1.02E+00	4.80E-01	1.37E+00	1.07E+00	1.26E+00	2.81E+00
+Perillic acid	9.12E-01	7.99E-01	8.82E-01	9.14E-01	8.48E-01	1.23E+00
+pyruvate	9.18E-01	7.99E-01	1.09E+00	7.45E-01	1.33E+00	9.89E-01
+Pyridoxal	5.58E-01	1.10E+00	9.63E-01	7.07E-01	7.02E-01	1.31E+00
+C4H6O3(3)	1.04E+00	9.89E-01	7.95E-01	9.01E-01	9.45E-01	7.97E-01
+tetradecenoyl carnitine	1.30E+00	7.70E-01	9.96E-01	1.87E+00	1.40E+00	1.36E+00
+3-hydroxyhexadecanoylcarnitine	1.38E+00	9.86E-01	1.33E+00	2.10E+00	1.34E+00	1.99E+00
+Riboflavin	1.12E+00	8.88E-01	9.71E-01	8.43E-01	1.12E+00	6.49E-01
+3-oxo-6(R)-hydroxy-tetradec-8-cis-enoate/3-oxo-6(S)-hydroxy-tetradec-8Z-enoate	1.06E+00	1.19E+00	1.43E+00	1.31E+00	1.33E+00	1.41E+00
+stearoylcarnitine	1.13E+00	7.44E-01	1.24E+00	1.80E+00	1.30E+00	7.79E-01
+D-Glycerate 3-phosphate/D-Glycerate 2-phosphate	1.18E+00	1.13E+00	1.87E+00	8.61E-01	9.02E-01	1.04E+00
+L-Iditol/D-glucitol/galactitol	8.56E-01	2.21E+00	9.41E-01	7.84E-01	1.46E+00	5.16E-01
+L-fucose/L-Fuculose	1.79E+00	9.78E-01	1.31E+00	1.40E+00	2.23E+00	1.26E+00
+sn-Glycero-3-phosphocholine	8.07E-01	6.31E-01	1.12E+00	1.28E+00	1.26E+00	1.72E+00
+glutathione	1.13E+00	8.54E-01	8.83E-01	4.47E-01	7.63E-01	4.48E-01
+L-glutamate	1.10E+00	9.39E-01	8.36E-01	1.30E+00	7.05E-01	1.40E+00
+L-4-hydroxyglutamate semialdehyde	1.10E+00	9.41E-01	8.52E-01	1.30E+00	7.15E-01	1.40E+00
+4(R)-hydroxy-dodec-6Z-enoate/4(S)-hydroxy-dodec-6Z-enoate	1.15E+00	1.13E+00	1.06E+00	1.94E+00	1.26E+00	1.38E+00
+3(S)6(R)-dihydroxy-tetradec-8Z-enoate/3(S)6(S)-dihydroxy-tetradec-8Z-enoate	9.96E-01	1.22E+00	1.38E+00	1.48E+00	1.21E+00	1.50E+00
+ Thymidine 	8.58E-01	1.30E+00	7.96E-01	1.34E+00	1.09E+00	1.81E+00
+2-Hydroxyglutarate	9.31E-01	8.59E-01	9.87E-01	1.11E+00	1.04E+00	1.24E+00
+ adenosine 	1.10E+00	9.05E-01	1.07E+00	2.17E+00	7.70E-01	8.00E-01
+3-Keto-beta-D-galactose/L-Gulonolactone	8.63E-01	9.60E-01	1.09E+00	9.72E-01	1.32E+00	1.22E+00
+5-Hydroxyisourate	1.13E+00	1.48E+00	9.18E-01	7.06E-01	8.46E-01	4.61E-01
+5-Methylthioadenosine	1.32E+00	9.37E-01	5.79E-01	1.13E+00	8.92E-01	8.58E-01
+4-hydroxybenzoate/Gentisate aldehyde	9.12E-01	8.36E-01	9.69E-01	1.02E+00	8.48E-01	1.17E+00
+Methionine sulfoxide	6.50E-01	4.51E-01	8.31E-01	7.09E-01	9.40E-01	3.85E-01
+N6N6N6-Trimethyl-L-lysine	1.14E+00	7.05E-01	9.08E-01	1.24E+00	1.09E+00	7.40E-01
+fumarate	9.84E-01	8.98E-01	6.86E-01	1.79E+00	1.02E+00	1.51E+00
+gama-L-glutamyl-L-alanine/5-L-Glutamyl-L-alanine-1	1.19E+00	1.99E+00	6.81E-01	9.02E-01	1.18E+00	7.89E-01
+Xanthine	1.32E+00	1.03E+00	1.03E+00	9.02E-01	8.37E-01	8.24E-01
+6(S)-hydroxy-tetradeca-2E4E8Z-trienoate/6(R)-hydroxy-tetradeca-2E4E8Z-trienoate	1.16E+00	9.56E-01	1.16E+00	1.30E+00	1.27E+00	1.34E+00
+tiglyl carnitine	1.13E+00	5.06E-01	1.05E+00	1.28E+00	1.04E+00	1.01E+00
+3(S)10(R)-OH-octadeca-6-trans-412-cis-trienoate	8.77E-01	1.15E+00	9.14E-01	1.15E+00	8.34E-01	1.28E+00
+12S-HHT	1.06E+00	1.39E+00	1.58E+00	1.23E+00	1.11E+00	8.54E-01
+5-Hydroxyindoleacetate	2.10E+00	1.03E+00	1.33E+00	2.42E+00	1.27E+00	5.13E-01
+phytanic acid/arachidic acid	1.08E+00	1.07E+00	1.10E+00	1.14E+00	1.35E+00	1.54E+00
+malate(2-)	1.10E+00	7.76E-01	5.98E-01	1.49E+00	1.02E+00	1.49E+00
+heptadecanoyl carnitine	1.25E+00	8.55E-01	2.23E+00	2.14E+00	1.38E+00	1.34E+00
+C16H26O3(4)	9.50E-01	1.08E+00	1.21E+00	1.43E+00	1.17E+00	1.45E+00
+2-oxoglutarate(2-)	1.12E+00	9.30E-01	6.47E-01	8.98E-01	7.64E-01	2.17E+00
+Ornithine	1.10E+00	1.20E+00	1.03E+00	1.47E+00	8.83E-01	1.18E+00
+succinate(2-)	1.11E+00	7.37E-01	8.52E-01	4.37E+00	1.26E+00	9.97E-01
+omega hydroxy hexadecanoate (n-C16:0)	1.15E+00	1.11E+00	7.18E-01	1.15E+00	9.11E-01	1.38E+00
+acetylcholine/4-(trimethylammonio)butanoate	8.38E-01	5.80E-01	7.74E-01	1.06E+00	1.00E+00	7.67E-01
+trans-Hexadec-2-enoyl carnitine	1.01E+00	7.91E-01	1.49E+00	3.32E+00	1.31E+00	1.45E+00
+succinyl carnitine	1.07E+00	9.75E-01	5.36E-01	2.41E+00	7.34E-01	1.16E+00
+N-Formimidoyl-L-glutamate	9.69E-01	9.34E-01	1.24E+00	1.30E+00	1.10E+00	8.89E-01
+octenoyl carnitine	1.45E+00	9.85E-01	1.20E+00	1.86E+00	1.32E+00	1.57E+00
+itaconate/Mesaconate	1.05E+00	7.82E-01	7.07E-01	1.12E+00	1.21E+00	9.02E-01
+dIMP	1.01E+00	6.62E-01	3.93E-01	1.62E+00	7.85E-01	1.99E+00
+24-oxo-1alpha-23-25-trihydroxyvitamin D3	1.45E+00	6.85E+00	1.54E+00	1.48E+00	2.13E+00	1.41E+00
+Biotin	9.46E-01	2.14E+00	1.21E+00	3.14E+00	8.05E-01	3.78E+00
+Valine	8.16E-01	8.23E-01	1.02E+00	1.14E+00	1.30E+00	8.98E-01
+AMP	1.07E+00	7.91E-01	7.51E-01	9.42E-01	9.84E-01	9.22E-01
+L-threonine	1.41E+00	8.43E-01	1.31E+00	1.82E+00	1.58E+00	1.11E+00
+Glycerol 3-phosphate	9.30E-01	6.78E-01	8.89E-01	1.78E+00	8.06E-01	4.57E-01
+gulonate	1.33E+00	7.08E-01	1.71E+00	1.32E+00	1.73E+00	1.11E+00
+arachidonic acid	6.68E-01	9.74E-01	8.50E-01	9.88E-01	9.71E-01	1.83E+00
+L-xylonate/L-lyxonate	1.08E+00	8.95E-01	1.07E+00	7.84E-01	1.12E+00	7.10E-01
+3-hydroxy-isovaleryl carnitine	1.25E+00	6.71E-01	1.29E+00	1.72E+00	1.40E+00	1.15E+00
+thymine/imidazol-4-ylacetate	9.86E-01	1.45E+00	6.65E-01	1.69E+00	1.05E+00	2.12E+00
+creatine	1.00E+00	8.73E-01	8.95E-01	1.44E+00	7.46E-01	9.52E-01
+xanthosine	1.84E+00	7.54E-01	6.49E-01	6.62E-01	9.59E-01	4.04E-01
+Elaidic carnitine/Vaccenyl carnitine	1.01E+00	6.97E-01	1.67E+00	2.74E+00	1.40E+00	1.28E+00
+Trimethylamine N-oxide	1.73E+00	1.15E+00	1.86E+00	2.11E+00	2.41E+00	1.87E+00
+C27H42O4(3)	1.55E+00	1.75E+00	1.81E+00	1.19E+00	1.76E+00	1.21E+00
+Nicotinamide	1.22E+00	1.03E+00	1.08E+00	1.18E+00	1.45E+00	1.11E+00
+carnosine	8.93E-01	9.21E-01	9.42E-01	8.71E-01	6.22E-01	6.68E-01
+L-serine	1.63E+00	1.15E+00	1.95E+00	1.92E+00	1.64E+00	1.88E+00
+5-oxoproline/L-1-Pyrroline-3-hydroxy-5-carboxylate	1.28E+00	1.29E+00	1.69E+00	1.87E+00	9.87E-01	2.13E+00
+naphthalene	1.37E+00	6.00E-01	1.43E+00	7.16E-01	2.18E+00	1.34E+00
+(R)-mevalonate	1.22E+00	5.84E+00	1.70E+00	9.21E-01	1.26E+00	9.00E-01
+C9H8O3(3)	1.02E+00	4.88E-01	5.67E-01	7.65E-01	9.60E-01	6.28E-01
+Urocanate	9.64E-01	1.19E+00	1.29E+00	1.29E+00	1.38E+00	1.60E+00
+L-isoleucine/L-leucine	1.24E+00	8.50E-01	9.98E-01	1.07E+00	1.33E+00	8.44E-01
+Hexadecanedioic acid	1.23E+00	8.06E-01	1.71E+00	1.50E+00	1.63E+00	1.43E+00
+G6P/F6P	9.74E-01	7.74E-01	6.00E-01	1.40E+00	7.63E-01	1.24E+00
+25-hydroxyvitamin D3-26-23-lactone	3.72E-01	7.71E-01	1.68E+00	1.31E+00	1.23E+00	1.04E+00
+N-acetyl-seryl-aspartate	1.03E+00	7.96E-01	1.05E+00	1.33E+00	9.61E-01	1.24E+00
+N-acetyl-L-aspartate/2-Amino-3-oxoadipate	1.29E+00	7.99E-01	9.27E-01	1.43E+00	1.05E+00	1.69E+00
+3-oxo-8(R)-hydroxy-hexadeca-6E10Z-dienoate/3-oxo-8(S)-hydroxy-hexadeca-6E10Z-dienoate	2.38E+00	2.40E+00	1.63E+00	2.71E+00	1.99E+00	1.12E+00
+acetamidopropanal	1.02E+00	8.41E-01	1.01E+00	7.44E-01	1.10E+00	7.55E-01
+ guanosine 	8.70E-01	7.13E-01	1.04E+00	1.36E+00	1.98E-01	1.98E+00
+perillyl aldehyde	8.35E-01	9.83E-01	9.69E-01	1.02E+00	9.73E-01	1.08E+00
+tetradecanoyl carnitine(myristoyl carnitine)	1.11E+00	8.36E-01	1.45E+00	3.86E+00	1.31E+00	1.44E+00
+oleic acid/elaidate/trans-vaccenate	8.09E-01	9.03E-01	9.17E-01	9.71E-01	1.13E+00	1.82E+00
+"5,6-dihydrothymine"	1.30E+00	1.18E+00	1.24E+00	1.24E+00	9.78E-01	8.74E-01
+Guanine	1.04E+00	6.50E-01	9.01E-01	9.43E-01	9.45E-01	7.57E-01
+L-arabinitol/xylitol/D-ribitol	1.30E+00	8.08E-01	9.76E-01	6.97E-01	1.33E+00	4.61E-01
+Taurine	9.47E-01	7.84E-01	7.21E-01	4.98E-01	6.00E-01	5.92E-01
+laurate	1.08E+00	7.98E-01	8.06E-01	1.20E+00	1.14E+00	1.72E+00
+palmitoleate	6.86E-01	8.13E-01	6.75E-01	7.53E-01	9.76E-01	1.34E+00
+ATP	1.40E+00	8.24E-01	7.65E-01	1.25E+00	1.15E+00	8.34E-01
+ uridine 	1.31E+00	9.41E-01	9.22E-01	9.14E-01	8.72E-01	8.50E-01
+pristanic acid	1.02E+00	1.10E+00	1.12E+00	1.17E+00	9.11E-01	1.60E+00
+palmitate	1.13E+00	8.55E-01	7.71E-01	1.09E+00	9.68E-01	1.21E+00
+Methylimidazoleacetic acid	1.22E+00	1.12E+00	1.29E+00	1.42E+00	1.37E+00	1.58E+00
+N-acetyl-L-glutamate	9.36E-01	7.23E-01	1.04E+00	1.61E+00	9.96E-01	1.16E+00
+C6H12O6(5)	1.08E+00	8.60E-01	1.09E+00	9.67E-01	1.15E+00	1.04E+00
+L-tryptophan	1.07E+00	6.99E-01	7.94E-01	8.87E-01	8.74E-01	7.32E-01
+Diphosphate	1.21E+00	7.09E-01	2.36E+00	1.07E+00	1.05E+00	1.06E+00
+3-Hydroxybutyrylcarnitine	1.10E+00	1.10E+00	1.17E+00	2.90E+00	1.42E+00	1.15E+00
+C20H30O4(18)	1.40E+00	1.45E+00	2.12E+00	1.11E+00	1.97E+00	1.29E+00
+citrate/isocitrate	1.25E+00	1.05E+00	9.35E-01	1.36E+00	1.22E+00	1.45E+00
+C20H32O3(12)	1.17E+00	1.24E+00	1.99E+00	1.66E+00	1.15E+00	2.03E+00
+caprate	1.14E+00	9.24E-01	9.24E-01	1.05E+00	1.04E+00	1.10E+00
+Glycylproline/L-Prolinylglycine	9.89E-01	1.03E+00	2.69E+00	6.14E-01	9.51E-01	6.44E-01
+1-methylnicotinamide	1.54E+00	1.03E+00	1.72E+00	1.04E+00	2.06E+00	1.05E+00
+ 5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide 	1.03E+00	7.23E-01	6.85E-01	8.67E-01	6.67E-01	6.09E-01
+butyryl carnitine	1.06E+00	6.46E-01	1.14E+00	3.45E+00	1.24E+00	9.09E-01
+ADP	1.22E+00	8.21E-01	9.29E-01	1.21E+00	1.14E+00	8.19E-01
+isoputreanine/putreanine	1.20E+00	1.03E+00	1.52E+00	1.36E+00	1.35E+00	1.03E+00
+L-kynurenine/Formyl-5-hydroxykynurenamine	1.43E+00	9.83E-01	1.29E+00	1.57E+00	1.26E+00	6.44E-01
+octanoyl carnitine/L-Octanoylcarnitine	1.81E+00	7.56E-01	1.02E+00	2.71E+00	1.36E+00	9.18E-01
+3-oxo-10(R)-hydroxy-octadeca-6E8E12Z-trienoate/3-oxo-10(S)-hydroxy-octadeca-6E8E12Z-trienoate	8.58E-01	9.92E-01	1.12E+00	1.14E+00	9.64E-01	8.90E-01
+arginine	1.37E+00	8.33E-01	1.49E+00	3.55E-01	1.32E+00	8.07E-01
+L-cysteate	1.30E+00	6.70E-01	8.97E-01	5.76E-01	8.09E-01	4.51E-01
+L-phenylalanine	9.01E-01	6.72E-01	8.33E-01	9.51E-01	1.15E+00	7.31E-01
+ Deoxyuridine 	1.02E+00	1.22E+00	8.25E-01	8.88E-01	1.09E+00	1.11E+00
+9(10)-EpOME/12(13)-EpOME	6.36E-01	8.76E-01	1.12E+00	1.31E+00	1.18E+00	1.91E+00
+omega hydroxy dodecanoate (n-C12:0)	1.47E+00	1.24E+00	9.41E-01	2.11E+00	1.23E+00	1.30E+00
+"4-hydroxy-2-nonenal/3,4-epoxynonanal"	1.05E+00	9.41E-01	6.69E-01	1.07E+00	7.67E-01	1.19E+00
+L-tyrosine	1.02E+00	5.03E-01	5.76E-01	7.80E-01	9.59E-01	6.48E-01
+fructoseglycine	9.32E-01	7.36E-01	1.07E+00	1.07E+00	7.52E-01	1.70E+00
+ cytidine 	8.63E-01	1.16E+00	1.24E+00	1.63E+00	7.68E-01	1.92E+00
+Glycylleucine	1.02E+00	1.27E+00	1.87E+00	7.10E-01	1.31E+00	6.47E-01
+Ercalcitriol	1.39E+00	1.04E+00	1.29E+00	1.74E+00	2.09E+00	1.18E+00
+adipic acid	1.06E+00	1.18E+00	1.43E+00	1.19E+00	1.10E+00	9.59E-01
+S-adenosyl-L-methionine	1.13E+00	1.07E+00	0.55542939	7.97E-01	5.79E-01	9.59E-01
+"4,6-Dihydroxyquinoline/quinoline-4,8-diol"	5.27E-01	1.14E+00	7.23E-01	6.34E-01	6.25E-01	8.10E-01
+coumarin	9.77E-01	4.89E-01	5.58E-01	7.53E-01	9.60E-01	6.37E-01
+Linoleyl carnitine/Linoelaidyl carnitine	1.27E+00	7.69E-01	1.95E+00	2.79E+00	1.81E+00	1.52E+00
+3-Ureidoisobutyrate/Glycylsarcosine	1.17E+00	1.57E+00	1.58E+00	9.49E-01	1.23E+00	9.26E-01
+citr_L[e]	1.20E+00	1.31E+00	1.89E+00	1.47E+00	1.42E+00	1.58E+00
+S-[2-carboxy-1-(1 H-imidazol-4-yl)ethyl]-L-cysteine	6.17E-01	8.50E-01	9.88E-01	6.34E-01	9.07E-01	9.65E-01
+C20H30O2(4)	4.76E-01	1.12E+00	9.22E-01	1.12E+00	9.25E-01	1.84E+00
+11'-Carboxy-alpha-chromanol	1.20E+00	9.94E-01	1.29E+00	2.13E+00	4.26E+00	1.17E+00
+ribose-phosphate	7.06E-01	7.02E-01	7.33E-01	1.09E+00	8.55E-02	1.12E+00
+myristate	9.65E-01	8.91E-01	7.45E-01	1.21E+00	9.20E-01	1.09E+00
+w-hydroxydecanoicacid	1.36E+00	1.16E+00	1.13E+00	1.62E+00	1.37E+00	1.01E+00
+C20H30O3(6)	2.60E-01	1.10E+00	2.33E+00	2.48E+00	1.45E+00	1.39E+00
+sarcosine	1.14E+00	9.18E-01	1.15E+00	1.05E+00	1.23E+00	1.03E+00
+"8,11,14-Eicosatrienoic acid (DGLA)"	8.48E-01	8.76E-01	1.06E+00	1.14E+00	1.08E+00	1.93E+00
+2-aminoacrylic acid	1.50E+00	1.11E+00	1.76E+00	1.66E+00	1.43E+00	1.66E+00
+L-threonate	1.01E+00	7.50E-01	8.38E-01	1.24E+00	1.11E+00	8.84E-01
+decanoyl carnitine	1.68E+00	6.49E-01	1.20E+00	5.17E+00	1.45E+00	1.86E+00
+alpha-D-glucose	6.03E-01	7.77E-01	7.86E-01	8.88E-01	9.73E-01	7.60E-01
+pendtadenoyl carnitine	1.17E+00	9.66E-01	2.22E+00	1.63E+00	1.48E+00	1.44E+00
+L-proline	1.02E+00	8.41E-01	1.01E+00	7.44E-01	1.10E+00	7.55E-01
+creatinine	1.28E+00	9.29E-01	9.93E-01	1.19E+00	1.16E+00	1.17E+00
+spermidine dialdehyde-2	1.49E+00	1.43E+00	1.66E+00	1.68E+00	1.55E+00	1.42E+00
+3-methyl-2-oxobutanoate	7.03E-01	9.76E-01	8.81E-01	1.03E+00	1.04E+00	9.89E-01
+alpha-linolenyl carnitine/gamma-linolenyl carnitine	1.51E+00	8.25E-01	2.24E+00	3.27E+00	1.69E+00	3.26E+00
+lysine	1.10E+00	7.69E-01	1.11E+00	1.08E+00	1.16E+00	8.30E-01
+docosahexaenoate(DHA)	1.09E+00	1.03E+00	1.10E+00	1.13E+00	1.35E+00	2.00E+00
+dopaminochrome	5.13E-01	1.11E+00	8.92E-01	7.09E-01	7.25E-01	1.38E+00
+bilirubin	1.15E+00	1.09E+00	1.11E+00	1.43E+00	1.08E+00	4.53E-01
+glycine	1.08E+00	8.67E-01	1.36E+00	1.28E+00	9.39E-01	1.01E+00
+Dihydroxyacetone phosphate	1.00E+00	7.45E-01	7.01E-01	8.91E-01	3.62E-01	8.80E-01
+anthranilate	1.50E+00	9.50E-01	7.50E-01	1.65E+00	1.23E+00	2.06E+00
+cis-aconitate	1.19E+00	8.80E-01	8.86E-01	1.13E+00	1.40E+00	1.09E+00
+4alpha-5-epoxy-8alpha-hydroperoxytocopherone/7-8-epoxy-8alpha-hydroperoxytocopherone	1.36E+00	8.04E-01	4.36E-01	1.18E-01	1.45E+00	1.49E+00
+3alpha-7alpha-12alpha-Trihydroxy-5beta-cholestanoate/3alpha-7alpha-12alpha-25-tetrahydroxy-5beta-cholestane-24-one	1.42E+00	9.49E-01	1.68E+00	6.66E+00	3.37E+00	1.74E+00
+choline	1.34E+00	9.94E-01	1.24E+00	9.23E-01	1.13E+00	9.52E-01
+NN-dimethylglycine	1.43E+00	1.39E+00	1.21E+00	1.06E+00	1.32E+00	9.83E-01
+L-palmitoylcarnitine	1.12E+00	7.97E-01	1.23E+00	2.22E+00	1.16E+00	1.03E+00
+O-acetylcarnitine	1.18E+00	9.51E-01	1.28E+00	5.05E+00	1.42E+00	9.76E-01
+ADP-ribose	8.31E-01	6.92E-01	2.13E-01	1.23E+00	4.82E-01	1.22E+00
+propionyl-carnitine	1.42E+00	8.02E-01	1.22E+00	2.24E+00	1.29E+00	8.36E-01
+C27H46O4(3)	1.35E+00	1.09E+00	2.69E+00	1.62E+00	2.01E+00	1.41E+00
+"trans-4,5-epoxy-2(E)-decenal"	1.02E+00	8.08E-01	7.23E-01	6.33E-01	7.43E-01	1.14E+00
+"clupanodonic acid/docosa-4,7,10,13,16-pentaenoic acid"	1.03E+00	1.06E+00	1.16E+00	1.23E+00	1.29E+00	1.60E+00
+L-histidine	1.35E+00	1.01E+00	1.64E+00	1.11E+00	1.46E+00	1.05E+00
+L-Alanyl-L-leucine	1.04E+00	7.15E-01	1.46E+00	1.11E+00	1.55E+00	2.07E+00
+uracil	1.34E+00	8.49E-01	9.23E-01	1.16E+00	9.11E-01	1.60E+00
+4-hydroperoxy-2-nonenal	9.38E-01	9.72E-01	7.90E-01	1.18E+00	1.14E+00	1.35E+00
+(R)-Pantothenate	1.38E+00	1.14E+00	1.00E+00	1.36E+00	5.84E-01	1.26E+00
+omega hydroxy tetradecanoate (n-C14:0)	1.26E+00	1.14E+00	7.90E-01	2.09E+00	1.02E+00	1.41E+00
+margarate	1.04E+00	9.61E-01	1.00E+00	1.39E+00	1.04E+00	1.32E+00
+"4-Hydroxyphenylacetate/2-Hydroxyphenylacetate/3,4-Dihydroxyphenylacetaldehyde"	8.37E-01	1.13E+00	1.29E+00	1.02E+00	1.01E+00	1.33E+00
+pentadecanoate	9.51E-01	9.15E-01	9.57E-01	1.38E+00	1.10E+00	1.28E+00
+Eicosenoic acid	9.47E-01	8.74E-01	1.13E+00	6.99E-01	9.74E-01	2.22E+00
+(4-hydroxy-3-methoxyphenyl)acetaldehyde	6.86E-01	6.20E-01	1.14E+00	8.01E-01	5.83E-01	1.06E+00
+3-hydroxyhexadecenoylcarnitine	8.54E-01	8.84E-01	6.85E-01	1.56E+00	1.71E+00	1.14E+00
+thiosulfate	1.10E+00	4.36E-01	8.01E-01	1.04E+00	5.33E-01	4.75E-01
+L-glutamine	1.17E+00	1.56E+00	1.58E+00	9.48E-01	1.23E+00	9.21E-01
+cholesterol sulfate	9.62E-01	8.07E-01	9.18E-01	9.53E-01	9.87E-01	1.03E+00
+lauroyl carnitine	1.46E+00	7.97E-01	1.24E+00	1.33E+01	1.27E+00	1.78E+00
+myo-inositol	1.08E+00	8.55E-01	1.09E+00	1.00E+00	1.17E+00	1.10E+00
+tetradecenoate (n-C14:1)	1.09E+00	1.06E+00	8.34E-01	1.15E+00	1.08E+00	1.98E+00
+2-Hydroxybutyric acid	1.09E+00	1.43E+00	1.79E+00	1.34E+00	1.21E+00	1.33E+00
+C18H32O4(3)	1.01E+00	1.03E+00	1.08E+00	1.08E+00	1.19E+00	1.05E+00
+linoleic acid/linoelaidic acid (all trans C18:2)/octadecadienoate (n-C18:2)	8.13E-01	9.64E-01	9.57E-01	1.23E+00	1.27E+00	1.84E+00
+lactate	1.04E+00	7.25E-01	9.56E-01	8.74E-01	1.06E+00	6.46E-01
+ orotate 	9.50E-01	1.24E+00	1.20E+00	1.72E+00	1.02E+00	1.13E+00
+cytosine	7.52E-01	9.82E-01	1.06E+00	1.18E+00	9.01E-01	1.54E+00
+choline phosphate	1.10E+00	8.21E-01	7.24E-01	1.06E+00	9.82E-01	1.32E+00
+L-alanine	1.13E+00	9.31E-01	1.19E+00	1.06E+00	1.24E+00	1.02E+00

@@ -1,0 +1,176 @@
+L-erythrulose
+L-homocysteine
+(R)-carnitine
+3-methyl-2-oxopentanoate/4-methyl-2-oxopentanoate(ketoleucine)
+C14H24O3(4)
+L-methionine
+glycine betaine
+D-Glycerate 3-phosphate/D-Glycerate 2-phosphate
+C20H28O(5)
+methyl indole-3-acetate
+NN-dimethylglycine
+N-acetylneuraminic acid
+glycine
+3-dehydro-L-gulonate/D-glucuronate/L-iduronate
+beta-hydroxy-beta-methylbutyrate
+2-methylglutaconic acid
+benzoate
+4-pyridoxate
+trans-caffeate/3-(4-hydroxyphenyl)pyruvate
+stearate
+15(S)-Hydroxyeicosatrienoic acid
+limonene/(+)-alpha-pinene
+decenoyl carnitine
+C5H10O5(6)
+C9H13N5O3(4)
+2-deoxycytidine
+Perillic acid
+pyruvate
+Pyridoxal
+C4H6O3(3)
+3-hydroxyhexadecanoylcarnitine
+3-Hydroxy-N6N6N6-trimethyl-L-lysine
+3-oxo-6(R)-hydroxy-tetradec-8-cis-enoate/3-oxo-6(S)-hydroxy-tetradec-8Z-enoate
+stearoylcarnitine
+L-Iditol/D-glucitol/galactitol
+L-fucose/L-Fuculose
+sn-Glycero-3-phosphocholine
+acetylcarnosine
+4(R)-hydroxy-dodec-6Z-enoate/4(S)-hydroxy-dodec-6Z-enoate
+3(S)6(R)-dihydroxy-tetradec-8Z-enoate/3(S)6(S)-dihydroxy-tetradec-8Z-enoate
+succinyl carnitine
+3-Keto-beta-D-galactose/L-Gulonolactone
+arachidonic acid
+5-Methylthioadenosine
+4-hydroxybenzoate/Gentisate aldehyde
+(R)-2-hydroxy-4-methylpentanoate
+N6N6N6-Trimethyl-L-lysine
+gama-L-glutamyl-L-alanine/5-L-Glutamyl-L-alanine-1
+Xanthine
+6(S)-hydroxy-tetradeca-2E4E8Z-trienoate/6(R)-hydroxy-tetradeca-2E4E8Z-trienoate
+tiglyl carnitine
+3(S)10(R)-OH-octadeca-6-trans-412-cis-trienoate
+12S-HHT
+nonanoate
+phytanic acid/arachidic acid
+heptadecanoyl carnitine
+C16H26O3(4)
+2-oxoglutarate(2-)
+succinate(2-)
+omega hydroxy hexadecanoate (n-C16:0)
+trans-Hexadec-2-enoyl carnitine
+N-Formimidoyl-L-glutamate
+octenoyl carnitine
+itaconate/Mesaconate
+Ureidopropionic acid/Glycyl-glycine
+C20H28O2(7)
+L-threonine
+Glycerol 3-phosphate
+5-Hydroxyisourate
+L-xylonate/L-lyxonate
+3-hydroxy-isovaleryl carnitine
+thymine/imidazol-4-ylacetate
+creatine
+Elaidic carnitine/Vaccenyl carnitine
+C27H42O4(3)
+Nicotinamide
+O-acetylcarnitine
+L-serine
+5-oxoproline/L-1-Pyrroline-3-hydroxy-5-carboxylate
+naphthalene
+(R)-mevalonate
+C9H8O3(3)
+Galactosylglycerol
+L-isoleucine/L-leucine
+Hexadecanedioic acid
+G6P/F6P
+25-hydroxyvitamin D3-26-23-lactone
+N-acetyl-L-aspartate/2-Amino-3-oxoadipate
+acetamidopropanal
+perillyl aldehyde
+tetradecanoyl carnitine(myristoyl carnitine)
+oleic acid/elaidate/trans-vaccenate
+L-arabinitol/xylitol/D-ribitol
+Taurine
+palmitoleate
+pseudoecgonine/ecgonine
+pristanic acid
+palmitate
+Methylimidazoleacetic acid
+myristate
+C6H12O6(5)
+L-tryptophan
+Diphosphate
+C27H44O2(5)
+C20H30O4(18)
+coumarin
+C20H32O3(12)
+C27H44O3(5)
+fructosyllysine
+caprate
+1-methylnicotinamide
+butyryl carnitine
+isoputreanine/putreanine
+L-kynurenine/Formyl-5-hydroxykynurenamine
+octanoyl carnitine/L-Octanoylcarnitine
+3-oxo-10(R)-hydroxy-octadeca-6E8E12Z-trienoate/3-oxo-10(S)-hydroxy-octadeca-6E8E12Z-trienoate
+L-phenylalanine
+tetradecenoyl carnitine
+sarcosine
+omega hydroxy dodecanoate (n-C12:0)
+uracil
+(S)-dihydroorotate
+Glycylleucine
+L-4-hydroxyglutamate semialdehyde
+adipic acid
+5-Hydroxyindoleacetate
+Ornithine
+Linoleyl carnitine/Linoelaidyl carnitine
+3-Ureidoisobutyrate/Glycylsarcosine
+citr_L[e]
+S-[2-carboxy-1-(1 H-imidazol-4-yl)ethyl]-L-cysteine
+C20H30O2(4)
+11'-Carboxy-alpha-chromanol
+laurate
+lauroyl carnitine
+C20H30O3(6)
+9(10)-EpOME/12(13)-EpOME
+fructoseglycine
+2-aminoacrylic acid
+L-threonate
+alpha-D-glucose
+pendtadenoyl carnitine
+L-proline
+creatinine
+spermidine dialdehyde-2
+alpha-linolenyl carnitine/gamma-linolenyl carnitine
+docosahexaenoate(DHA)
+dopaminochrome
+L-tyrosine
+3-Hydroxybutyrylcarnitine
+L-asparagine
+choline
+anthranilate
+L-palmitoylcarnitine
+phenylacetaldehyde
+propionyl-carnitine
+C27H46O4(3)
+L-histidine
+4-hydroperoxy-2-nonenal
+margarate
+pentadecanoate
+Eicosenoic acid
+(4-hydroxy-3-methoxyphenyl)acetaldehyde
+3-hydroxyhexadecenoylcarnitine
+L-glutamine
+Riboflavin
+decanoyl carnitine
+myo-inositol
+tetradecenoate (n-C14:1)
+C18H32O4(3)
+linoleic acid/linoelaidic acid (all trans C18:2)/octadecadienoate (n-C18:2)
+L-Alanyl-L-leucine
+C20H30O(4)
+acetylcholine/4-(trimethylammonio)butanoate
+cytosine
+L-alanine

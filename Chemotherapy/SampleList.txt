@@ -1,0 +1,9 @@
+5-FU-Plasma
+MR+5-FU-Plasma
+MR-Plasma
+5-FU-Liver
+MR+5-FU-Tumor
+5-FU-Tumor
+MR-Tumor
+MR-Liver
+MR+5-FU-Liver

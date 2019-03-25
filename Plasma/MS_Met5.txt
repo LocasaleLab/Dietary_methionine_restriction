@@ -1,0 +1,61 @@
+(4-hydroxy-3-methoxyphenyl)acetaldehyde
+(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
+1-methylnicotinamide
+2-Hydroxybutyric acid
+2-Ketobutyric acid
+2-aminoacrylic acid
+2-deoxy-D-ribose 5-phosphate/2-Deoxy-D-ribose 1-phosphate
+3-Ureidoisobutyrate/Glycylsarcosine
+4-Hydroxyphenylacetate/2-Hydroxyphenylacetate/3,4-Dihydroxyphenylacetaldehyde
+5,6-dihydrouracil/L-3-Cyanoalanine
+5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide 
+5-Methylthioadenosine
+5-O-phosphonato-alpha-D-ribofuranosyl diphosphate
+Adrenaline/L-Normetanephrine
+Cystathionine
+D-Glucosamine 6-phosphate
+Deoxyinosine 
+GMP 
+GSSG
+Guanine
+Hydroxymethylglutaryl-CoA 
+Hypoxanthine 
+IMP
+L-cystathionine
+L-kynurenine/Formyl-5-hydroxykynurenamine
+L-methionine
+N-Formimidoyl-L-glutamate
+N-Ribosylnicotinamide
+N-phosphocreatinate
+N1-(5-Phospho-D-ribosyl)glycinamide
+N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide
+NN-dimethylglycine
+Nicotinamide
+O-acetylcarnitine
+Pyridoxal
+S-Adenosyl-L-homocysteine
+S-adenosyl-L-methionine
+Ureidopropionic acid/Glycyl-glycine
+Xanthine
+acetyl-CoA
+acetylcholine/4-(trimethylammonio)butanoate
+adenine
+adenosine 
+citrate/isocitrate
+creatine
+dTMP
+dUMP
+glycine betaine
+guanosine 
+histamine
+indole-3-acetate/(5-hydroxyindol-3-yl)acetaldehyde
+inosine
+inosine 
+palmitate
+phenylacetate/(4-hydroxyphenyl)acetaldehyde
+pyruvate
+sarcosine
+serotonin
+uridine 
+xanthosine
+L-homocysteine
