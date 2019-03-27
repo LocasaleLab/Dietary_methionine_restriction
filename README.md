@@ -10,7 +10,7 @@ Code and scripts for analyzing metabolomics datasets for mice and human subjects
 - **Time_course**: MATLAB scripts for the singular value decomposition (SVD) analysis of time-course data in plasma of mice eating control/MR diets
 
 ## Usage
-The scripts were written and tested in MATLAB R2018b. To run the scripts, execute the .m file in the corresponding folder.
+The scripts were written and tested in MATLAB R2018b. To run the scripts, add heatmap.m to the MATLAB search path, then execute the .m file in the corresponding folder.
 
 ## License
 This software is released under the [MIT License](LICENSE-MIT).
